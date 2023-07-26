@@ -1,4 +1,7 @@
-# Add your functions here!
+# Add your functions here! 
+def modulo(num1,num2):
+    result = num1 % num2
+    print("The Result is :", result)
 
 
 def main():
