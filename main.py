@@ -1,5 +1,7 @@
 # Add your functions here!
-
+def subtract (num1, num2)
+    result =num1 - num2
+    print ("The result of subtract is: ", result)
 
 def main():
     print("Enter the operation you want to perform: ")
