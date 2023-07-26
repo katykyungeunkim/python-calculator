@@ -1,5 +1,5 @@
 # Add your functions here!
-def subtract (num1, num2)
+def subtract (num1, num2):
     result =num1 - num2
     print ("The result of subtract is: ", result)
 
