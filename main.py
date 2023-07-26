@@ -1,5 +1,9 @@
 # Add your functions here!
 
+def add(num1, num2):
+    result = num1 + num2
+    print("The result is: ", result)
+    
 
 def main():
     print("Enter the operation you want to perform: ")
